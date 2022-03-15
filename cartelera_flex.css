@@ -1,0 +1,51 @@
+cartelera {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+película {
+    
+    width: 20%;
+    display: block;
+    padding: 1em;
+    border: 1px solid black;
+    margin: 1em;
+    background-color: moccasin;
+}
+
+
+
+película[código="p1"]
+{
+background-color: lightskyblue;
+
+}
+
+
+película :hover {
+    background-color: orange;
+}
+
+título {
+    display: block;
+    color: red;
+    font-weight: bolder;
+    font-size: 2em;
+}
+
+título_original {
+    color: blue;
+    font-style: italic;
+}
+
+sinopsis {
+    display: block;
+    font-size: 0.8em;
+    color: gray;
+}
+
+reparto {
+    display: block;
+    margin-left: 2em;
+}
