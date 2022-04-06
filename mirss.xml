@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<rss version="2.0">
+
+    <channel>
+
+        <title>GitHub de Alfonso</title>
+
+        <link>https://alopgem153.github.io/</link>
+
+        <description>Ejemplos de HTML, CSS y XML en GitHub de Alfonso </description>
+
+        <item>
+
+            <title>Ejercicios de Tablas</title>
+
+            <link>https://alopgem153.github.io/tablas.html</link>
+
+            <description>Ejercicio que crea trata de crear una tabla con HTML</description>
+
+        </item>
+
+        <item>
+
+            <title>Ejercicio de JS</title>
+
+            <link>https://alopgem153.github.io/basica.html</link>
+
+            <description>Ejercicio de JS que lo quehace es mostrar un alert</description>
+
+        </item>
+
+        <item>
+
+            <title>XML con CSS</title>
+
+            <link>https://alopgem153.github.io/cartelera.xml</link>
+
+            <description>Le aplicamos un estilo CSS a un fichero XML  </description>
+
+        </item>
+
+
+    </channel>
+
+</rss> 
